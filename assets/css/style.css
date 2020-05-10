@@ -1,0 +1,7 @@
+.head {
+	background-image: url('../img/1.jpg');
+	background-size: 100%;
+	background-attachment: fixed;
+	height: 600px;
+	text-shadow: rgba(0, 0, 0, 0.7);
+}
